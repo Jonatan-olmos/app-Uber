@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362580665992",
+    "project_id": "remis-423da",
+    "storage_bucket": "remis-423da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362580665992:android:13b9fb33909604a32d613d",
+        "android_client_info": {
+          "package_name": "com.joni.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3arQ765wxb5OMSo8yVeQgmPOsJwhr8Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
